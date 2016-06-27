@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ga_license_file>
+  <metadata>
+	<author>Mohammad Fadli, IRISIKO</author>
+  </metadata>
+
+  <datafile>
+    <filename>bali_desa.shp</filename>
+    <checksum>e6aadbb06b370f82c840d396acdaeca2</checksum>
+    <publishable>Yes</publishable>
+    <accountable>Mohammad Fadli</accountable>
+    <source>West Java Regional Planning Agency</source>
+    <IP_owner>IRISIKO</IP_owner>
+    <IP_info>NA</IP_info>
+  </datafile>
+
+  <datafile>
+    <filename>bali_desa.shx</filename>
+    <checksum>d9b31f0f5a853e13d61f36eacdca6adb</checksum>
+    <publishable>Yes</publishable>
+    <accountable>Mohammad Fadli</accountable>
+    <source>West Java Regional Planning Agency</source>
+    <IP_owner>IRISIKO</IP_owner>
+    <IP_info>NA</IP_info>
+  </datafile>
+
+  
+  <datafile>
+    <filename>bali_desa.sbn</filename>
+    <checksum>72c8f24668b6faf980a0c214eb54b5ff</checksum>
+    <publishable>Yes</publishable>
+    <accountable>Mohammad Fadli</accountable>
+    <source>West Java Regional Planning Agency</source>
+    <IP_owner>IRISIKO</IP_owner>
+    <IP_info>NA</IP_info>
+  </datafile>
+  
+  <datafile>
+    <filename>bali_desa.sbx</filename>
+    <checksum>f1ab66c4bbd62435c1e8cbc544afbe34</checksum>
+    <publishable>Yes</publishable>
+    <accountable>Mohammad Fadli</accountable>
+    <source>West Java Regional Planning Agency</source>
+    <IP_owner>IRISIKO</IP_owner>
+    <IP_info>NA</IP_info>
+  </datafile>
+  
+  <datafile>
+    <filename>bali_desa.dbf</filename>
+    <checksum>c713c1ba527426900e6239b03e2bcbfd</checksum>
+    <publishable>Yes</publishable>
+    <accountable>Mohammad Fadli</accountable>
+    <source>West Java Regional Planning Agency</source>
+    <IP_owner>IRISIKO</IP_owner>
+    <IP_info>NA</IP_info>
+  </datafile>
+
+</ga_license_file>
